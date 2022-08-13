@@ -50,7 +50,7 @@
             android:layout_height="48dp"
             android:layout_marginTop="10dp"
             android:ems="10"
-            android:hint="@string/hntReEnterPassword"
+            android:hint="@string/htnEmail"
             android:inputType="textEmailAddress" />
 
         <Button
