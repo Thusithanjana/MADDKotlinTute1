@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MADDKotlinTute1</string>
+    <string name="hntName">Enter Username</string>
+    <string name="hntPassword">Enter Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnForgotPassword">Forgot Password</string>
 </resources>
